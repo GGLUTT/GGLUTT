@@ -74,60 +74,6 @@ const developer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GGLUTT&theme=react&hide_border=true&stroke=30363d&background=0d1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb"/>
 </div>
 
-## 🔥 Skills Breakdown
-
-<div align="center">
-  
-**JavaScript Mastery**
-```
-████████████████████████████████████████ 95%
-```
-
-**React Development**
-```
-████████████████████████████████████████ 92%
-```
-
-**Node.js Backend**
-```
-██████████████████████████████████████   88%
-```
-
-**Frontend Design**
-```
-████████████████████████████████████████ 90%
-```
-
-**Problem Solving**
-```
-████████████████████████████████████████ 96%
-```
-
-</div>
-
-## 🌟 React & Node.js Focus
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GGLUTT&theme=react&hide_border=true&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9&border_color=30363d"/>
-</div>
-
-### 📈 Weekly Development Breakdown
-```javascript
-const weeklyStats = {
-  JavaScript: "40%",
-  React: "35%", 
-  Node.js: "15%",
-  CSS: "7%",
-  HTML: "3%"
-};
-```
-
-## 🎮 Fun Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GGLUTT&theme=nord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6"/>
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
