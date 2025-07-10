@@ -1,7 +1,7 @@
 # 👋 Hello, I'm GGLUTT!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxpdGJiZ3NkcTFieWc0bjY0dXdocHBlMWRpMGRpbjRkbGJ3dWtidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Node.js+Developer+%F0%9F%9A%80;JavaScript+Expert+%F0%9F%93%A6;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
 </div>
