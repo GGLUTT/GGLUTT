@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
 ## 🚀 About Me
@@ -22,33 +22,39 @@
   
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GGLUTT&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGLUTT&layout=compact&langs_count=6&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GGLUTT&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GGLUTT&layout=compact&langs_count=6&theme=react&hide=c%23,c"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GGLUTT&theme=react&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🔥 Featured Projects
 
-- 👟 **[Nike Landing](https://github.com/GGLUTT/nike-landing)** - Modern Nike product landing page
-- 🚗 **[Car Landing](https://github.com/GGLUTT/car-landing)** - Automotive showcase website
-- 🍷 **[Wine Store](https://github.com/GGLUTT/wine-store)** - E-commerce wine store application
-- 🌐 **Web Layouts** - Responsive design components
+- 👟 **[Nike Landing](https://github.com/GGLUTT/Nike_Landing1)** - Modern Nike product landing page
+- 🚗 **[USA Car](https://github.com/GGLUTT/usa_Car)** - American car showcase website
+- 🎮 **[GTA5 Player Menu](https://github.com/GGLUTT/player-menu-GTA5)** - Interactive game menu interface
+- 🤖 **[Telegram AutoBot](https://github.com/GGLUTT/Telega-AutoBot)** - Automated Telegram bot
 - ⚛️ **React Applications** - Interactive user interfaces
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250"/>
 </div>
 
 ## 📫 Let's Connect
