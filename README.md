@@ -10,7 +10,8 @@
 
 ## 🚀 About Me
 
-- 🎯 Frontend Developer focused on **React** ecosystem
+- 🎯 Full Stack Developer with **Frontend specialization**
+- ⚛️ Expert in **React** ecosystem and modern JavaScript
 - 🔧 Backend development with **Node.js**
 - 🌱 Always learning and exploring new technologies
 - ⚡ Passionate about creating beautiful user experiences
@@ -40,9 +41,11 @@
 
 ## 🔥 Featured Projects
 
-- 🌐 **Web Layouts** - Modern responsive designs
-- ⚛️ **React Components** - Reusable UI components
-- 🎨 **Frontend Experiments** - Creative web experiences
+- 👟 **[Nike Landing](https://github.com/GGLUTT/nike-landing)** - Modern Nike product landing page
+- 🚗 **[Car Landing](https://github.com/GGLUTT/car-landing)** - Automotive showcase website
+- 🍷 **[Wine Store](https://github.com/GGLUTT/wine-store)** - E-commerce wine store application
+- 🌐 **Web Layouts** - Responsive design components
+- ⚛️ **React Applications** - Interactive user interfaces
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
@@ -53,7 +56,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GGLUTT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evgenii-lutiy-460797364/?locale=en_US)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
