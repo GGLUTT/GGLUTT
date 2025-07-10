@@ -1,7 +1,7 @@
 # GGLUTT
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
 </div>
 
 **Frontend Developer** • **React Enthusiast** • **Node.js Developer**
